@@ -1,3 +1,4 @@
+![cover-logo](https://github.com/SARIOT10113/SARIOT10113/blob/master/github-image2.jpg)
 <h1 align="center">Hi 👋, I'm Sariot Hossain</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
