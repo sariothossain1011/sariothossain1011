@@ -1,6 +1,6 @@
 ![cover-logo](https://github.com/SARIOT10113/SARIOT10113/blob/master/github-image2.jpg)
 <h1 align="center">Hi 👋, I'm Sariot Hossain</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">I'm a Student/Learner & Developer from Bangladesh !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sariot10113&label=Profile%20views&color=0e75b6&style=flat" alt="sariot10113" /> </p>
 
