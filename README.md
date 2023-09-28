@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://sariot.netlify.app/](https://sariothossain.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sariothossain.vercel.app/](https://sariothossain.vercel.app/)
 
 - 💬 Ask me about **react,javascript**
 
