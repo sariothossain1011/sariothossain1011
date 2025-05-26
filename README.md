@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sariot10113&label=Profile%20views&color=0e75b6&style=flat" alt="sariot10113" /> </p>
 
-- 🔭 I’m currently working on **Javascript and Python**
+- 🔭 I’m currently working on **Javascript,java,c,oop,dsa**
 
 - 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://sariothossain.vercel.app/](https://sariothossain.vercel.app/)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **javascript,reactjs,nextjs,nodejs,expressjs.mongodb,postgreSQL**
 
 - 📫 How to reach me **sariothossain1011@gmail.com**
 
